@@ -1,0 +1,13 @@
+div{
+    border: 2px solid red;
+    padding: 20px;
+    margin: 50px;
+}
+
+.full{
+    border-radius: 20px;
+}
+
+.half{
+    border-radius: 35px 20px 35px 20px;
+}

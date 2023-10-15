@@ -1,0 +1,12 @@
+div{
+    background-image: linear-gradient(to left, violet,indigo, blue, green, yellow, orange, red);
+    width: 500px;
+    height: 80px;
+    color: silver;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+h1{
+    padding-top: 20px;
+}

@@ -1,0 +1,14 @@
+h2{
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-color: skyblue;
+}
+
+p{
+    font-family: serif;
+    font-size: large;
+    margin-left: 30px;
+}
